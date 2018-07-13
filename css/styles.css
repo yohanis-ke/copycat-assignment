@@ -1,0 +1,90 @@
+*{
+  font-size: 16pt;
+}
+.header{
+  width: 100%;
+  position: relative;
+  background-color: #58D68D;
+  vertical-align: middle;
+  column-rule-color: black;
+  height: 50px;
+  text-align: right;
+}
+.header > h1{
+  text-align: left;
+  vertical-align: middle;
+}
+.header a{
+  padding: 30px;
+  text-align: right;
+}
+.sections1{
+  position: relative;
+  background-color: #1F618D;
+  left:200px;
+  width: 80%;
+  height: 300px;
+  position: relative;
+}
+.sections1 > img{
+  width: 50%;
+  height: 285px;
+  /* margin-left: auto; */
+}
+.sections1.subsection1{
+  position: relative;
+  font-size: 40px;
+  text-align: right;
+  /* left: 600px; */
+}
+.section2{
+  position: relative;
+  top: -20px;
+  height: 300px;
+  left:200px;
+  width: 80%;
+  background-color: #FFC300;
+}
+.section3{
+  position: relative;
+  top: -32px;
+  left:200px;
+  width: 80%;
+  background-color: #909497;
+}
+  .section3-1{
+    position: relative;
+    /* top: 0; */
+    width: 80%;
+   }
+  .section3-2{
+    position: relative;
+    /* top: 0; */
+    width: 80%;
+    background-color: #909497;
+}
+.section4 {
+  position: relative;
+  top: -42px;
+  left:200px;
+  width: 80%;
+  height: 300px;
+  background-color: #1F618D;
+}
+.footer{
+  position: relative;
+  top: -58px;
+  height: 40px;
+  bottom: 0;
+  text-align: right;
+  background-color: #58D68D;
+
+}
+h1{
+  font-size: 18px;
+}
+.section4 > h1{
+  word-spacing: 200px;
+  color: white;
+  text-align: center;
+}
